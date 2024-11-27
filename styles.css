@@ -1,0 +1,29 @@
+body{
+    font-family: Roboto, sans-serif;
+    display: flex;
+    background-color: #A2E3C4;
+    color: #3C493F;
+    justify-content: center;
+}
+
+.container {
+    padding: 3vh;
+    border: 10vh;
+    border-radius: 5vh;
+    box-shadow: 0 4px 8px;
+    background-color: #F0F7F4;
+}
+
+input{
+    margin: 10vh, 0;
+    padding: 10vh;
+}
+
+button{
+    background-color: #3C493F;
+    color: #F0F7F4;
+    cursor: grabbing;
+}
+button:hover{
+    background-color: #A2E3C4;
+}
